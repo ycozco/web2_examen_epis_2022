@@ -27,6 +27,7 @@ h3{
     top:100px;
     left: 40px;
     transition: 0.5s;
+    overflow: hidden;
 }
 form input{
     width: 100%;
