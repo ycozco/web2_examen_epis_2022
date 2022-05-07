@@ -38,7 +38,7 @@ var name = document.getElementById("name").value;
 var last_name = document.getElementById("last_name").value;
 var date_birthday = document.getElementById("birthday").value;
     var age = getAge(date_birthday);
-    alert("Hola: "+name+" "+ last_name +" tienes:" + age);
+    alert("Hola "+name+" "+ last_name +" tienes " + age + " años");
 }
 
 function getAge(dateString) 
