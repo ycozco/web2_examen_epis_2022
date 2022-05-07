@@ -80,6 +80,7 @@ left: 450px;
     height: 100%;
     width: 120px;
     background: linear-gradient(to left,#00bcd4,#00bcd4);
+    transition: 1s;
 }
 #progress::after{
     content: '';
