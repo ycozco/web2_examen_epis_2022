@@ -12,6 +12,19 @@ var Back2 = document.getElementById("back2");
 Next1.onclick = function() {
     Form1.style.left = "-450px";
     Form2.style.left = "40px";
-
 }
+Back1.onclick = function() {
+    Form1.style.left = "40px";
+    Form2.style.left = "450px";
+}
+Next2.onclick = function() {
+    Form2.style.left = "-450px";
+    Form3.style.left = "40px";
+}
+Back2.onclick = function() {
+    Form2.style.left = "40px";
+    Form3.style.left = "450px";
+}
+
+
 
