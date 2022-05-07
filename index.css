@@ -10,7 +10,7 @@ body{
 }
 .container{
     width: 360px;
-    height: 400px;
+    height: 300px;
     margin: 8% auto;
     background: #fff;
     border-radius: 5px;
@@ -39,7 +39,7 @@ form input{
 .btn-box{
     width: 100%;
     margin: 30px;
-    text-align: center;
+    text-align:right;
 }
 form button{
     width: 110px;
